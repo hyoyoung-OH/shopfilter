@@ -2,10 +2,10 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "hyoyoung-oh.github",
+  "name": null,
   "orientation": "any",
   "scope": "/",
-  "short_name": "hyoyoung-oh.github",
+  "short_name": null,
   "start_url": "/",
   "theme_color": "#ffffff"
 }
